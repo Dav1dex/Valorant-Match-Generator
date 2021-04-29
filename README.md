@@ -2,7 +2,6 @@
 This is just a little thing i made for generating custom game setups when i was bored :P
 
 ## What does this do?
----
 This program generates match setups with random teams and maps and outputs them to a text file.
 
 Example:  
@@ -14,7 +13,6 @@ Example:
 ### **If you do not have it install it from https://nodejs.org/** 
 ---
 #### How to download
----
 - Scroll all the way to the top of the page and click on the latest release.
 - Click on `Source code (zip)` and download it.
 - Extract the files in a folder.
@@ -23,7 +21,6 @@ Example:
 - Try running `node .` and if everything was done correctly the program should run without a `MODULE_NOT_FOUND` error.
 ---
 #### How to use
----
 When you first run the program you might see this:  
 ![Example Image](https://i.imgur.com/LxQaR14.png)  
 This is happening beacause we have not defined any players in our `config.json` file.  
