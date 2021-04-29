@@ -1,0 +1,24 @@
+{
+  "name": "valorant-match-generator",
+  "version": "1.0.0",
+  "description": "Valorant Custom Match Generator.",
+  "main": "match-generator.js",
+  "dependencies": {
+    "ascii-table": "^0.0.9",
+    "chalk": "^4.1.1",
+    "underscore": "^1.13.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "run": "node ."
+  },
+  "keywords": [
+    "valorant",
+    "match",
+    "game",
+    "shooter",
+    "fps"
+  ],
+  "author": "atorea",
+  "license": "ISC"
+}
