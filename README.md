@@ -8,7 +8,6 @@ Example:
 ![Example Image](https://i.imgur.com/pnjj8S4.png)  
 
 ## How to download and use this program
----
 ## **You will need Node.JS to use this program**  
 ### **If you do not have it install it from https://nodejs.org/** 
 ---
