@@ -67,4 +67,4 @@ If you open it you should see the match info generated in there.
 - The last player defined cannot have a comma after the quote. This will cause an error.  
 - As i said you can change the number of matches and the output file name in config.json  
 - I will probably make a CS:GO version if people are intrested as it is not that hard (i just gotta change the name and the maps :P)  
-- If you have any more questions message me on Discord at `アトレア#1921`
+- If you have any more questions message me on Discord at `Dav1dex#6083`
